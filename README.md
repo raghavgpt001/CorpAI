@@ -24,7 +24,7 @@ Follow these straightforward steps to set up and run the project:
    ```bash
    docker-compose up -d
    ```
-2. **Download Gemma:2b model from Open Web UI**: Navigate to [http://localhost:3000](http://localhost:3000). Go to settings and download Gemma:2b model.
+2. **Download LLM from Open Web UI**: Navigate to [http://localhost:3000](http://localhost:3000). Go to settings and download Gemma:2b model.
 
 
 ## Getting Started with Next.js
