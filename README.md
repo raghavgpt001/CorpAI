@@ -15,6 +15,11 @@ This is your AI assistant for professional writing in a corporate setting Follow
 
 ## Getting Started with Docker
 
+1. **Run docker-compose**
+   ```bash
+   docker-compose up -d
+   ```
+2. 
 
 ## Getting Started with Next.js
 
