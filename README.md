@@ -1,8 +1,9 @@
-**This is your AI assistant for professional writing in a corporate setting.**
+## This is your AI assistant for professional writing in a corporate setting.
+
+![image](https://github.com/raghavgpt001/CorpAI/assets/67496636/1f02fed5-3260-463a-be73-96420ac06299)
+
 
 Follow these straightforward steps to set up and run the project:
-
-![Uploading image.png…]()
 
 
 ## Prerequisites
