@@ -24,7 +24,8 @@ Follow these straightforward steps to set up and run the project:
    ```bash
    docker-compose up -d
    ```
-2. 
+2. **Download Gemma:2b model from Open Web UI**: Navigate to [http://localhost:3000](http://localhost:3000). Go to settings and download Gemma:2b model.
+3. 
 
 ## Getting Started with Next.js
 
@@ -42,7 +43,7 @@ Follow these straightforward steps to set up and run the project:
    npm run dev
    ```
 
-   Your Next.js application should be up and running on [http://localhost:3000](http://localhost:3001).
+   Your Next.js application should be up and running on [http://localhost:3001](http://localhost:3001).
 
 ## Getting Started with Python
 
