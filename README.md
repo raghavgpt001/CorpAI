@@ -1,4 +1,6 @@
-This is your AI assistant for professional writing in a corporate setting Follow these straightforward steps to set up and run the project:
+**This is your AI assistant for professional writing in a corporate setting.**
+
+Follow these straightforward steps to set up and run the project:
 
 ![Uploading image.png…]()
 
@@ -16,6 +18,7 @@ This is your AI assistant for professional writing in a corporate setting Follow
 ## Getting Started with Docker
 
 1. **Run docker-compose**
+   
    ```bash
    docker-compose up -d
    ```
