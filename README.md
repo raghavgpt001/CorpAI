@@ -8,7 +8,7 @@ This is your AI assistant for professional writing in a corporate setting Follow
 
 ## Getting Started with Next.js
 
-1. **Install Dependencies**: Navigate to the Next.js directory and run the following command to install the necessary Node.js modules:
+1. **Install Dependencies**: Navigate to the corp directory and run the following command to install the necessary Node.js modules:
 
    ```bash
    npm install
@@ -24,13 +24,13 @@ This is your AI assistant for professional writing in a corporate setting Follow
 
 ## Getting Started with Python
 
-1. **Install Python Requirements**: Navigate to the Python directory and install the required Python packages by running:
+1. **Install Python Requirements**: Navigate to the corp-voice directory and install the required Python packages by running:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-2. **Run the Python Application**: Execute the Python script to use the virtual sales agents:
+2. **Run the Python Application**: Execute the Python script to use the voice agents:
 
    ```bash
    python main.py
