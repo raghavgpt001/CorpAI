@@ -1,6 +1,7 @@
 ## This is your AI assistant for professional writing in a corporate setting.
 
-![image](https://github.com/raghavgpt001/CorpAI/assets/67496636/1f02fed5-3260-463a-be73-96420ac06299)
+![image](https://github.com/raghavgpt001/CorpAI/assets/67496636/24e8087c-641a-4e5c-98ca-8dba15ee7efa)
+
 
 
 Follow these straightforward steps to set up and run the project:
