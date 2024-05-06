@@ -1,6 +1,6 @@
 import { UserButton, useUser } from "@clerk/nextjs"
 import Link from "next/link"
-import Icon from "./icon"
+import Icon from "./Icon"
 
 
 export const Nav = () => {
