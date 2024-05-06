@@ -1,6 +1,6 @@
 ## This is your AI assistant for professional writing in a corporate setting.
 
-![image](https://github.com/raghavgpt001/CorpAI/assets/67496636/24e8087c-641a-4e5c-98ca-8dba15ee7efa)
+![image](https://github.com/raghavgpt001/CorpAI/assets/67496636/145b8aaa-366e-4362-a66a-3f40917053fc)
 
 
 
