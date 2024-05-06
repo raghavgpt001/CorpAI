@@ -17,7 +17,7 @@ export const Nav = () => {
           <div className="flex space-x-4">
             {user ? (
             <>
-                <Link href="/assistant/chat" className="px-6 py-2 rounded-full text-sm font-medium text-white  bg-blue-500 hover:bg-blue-700">Learning journey</Link>
+                <Link href="/assistant/chat" className="px-6 py-2 rounded-full text-sm font-medium text-white  bg-blue-500 hover:bg-blue-700">Writing journey</Link>
                 <UserButton />
             </>
             ):(
